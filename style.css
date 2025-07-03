@@ -1,0 +1,195 @@
+
+*{
+    background-color:white;
+}
+
+.name{
+    font-family: "Nosifer", sans-serif;
+    text-align: center;
+    color:red;
+    font-size:large;
+    font-style: normal;
+    font-weight: bold;
+    background-color:skyblue;
+    border-radius: 100px;
+    width: 100%;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 60%;
+    text-align:end;
+
+}
+
+.E{
+  font-size:medium;  
+  text-align: start;
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  border-radius: 40px;
+
+}
+
+.G{
+  font-size:medium;  
+  text-align: start;
+  font-family: "Coral Pixels", serif;
+  font-weight: 400;
+  font-style: normal;
+  border-radius: 40px;
+
+}
+
+.Ps{
+  font-family: "Frijole", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-style: italic;
+}
+
+.summary{
+  text-align: center;
+  background-color:skyblue;
+  font-family: "Playball", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:medium;
+  border-radius:10px;
+}
+
+.education{
+  font-style: italic;
+  font-family: "Eater", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size:x-large;
+
+}
+
+.course1{
+  font-family: "Vast Shadow", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: small;
+}
+
+.institute1{
+  font-family: "Fontdiner Swanky", serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: small;
+}
+
+.course2{
+  font-family: "Jacques Francois Shadow", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: small;
+}
+
+.institute2{
+  font-family: "Beth Ellen", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: small;  
+}
+
+.Ts{
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size:x-large;
+  font-style: italic;
+}
+
+
+.Tskills1{
+  font-family: "Kaushan Script", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: medium;
+}
+
+.Tskills2{
+  font-family: "Sedgwick Ave Display", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: medium;
+}
+
+.Tskills3{
+  font-family: "Zen Tokyo Zoo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: medium;
+}
+
+.projects{
+  font-style: italic;
+  font-family: "Rubik Marker Hatch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+
+}
+
+.pname1{
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size:large;
+}
+
+.purpose1{
+  font-family: "Kings", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pname2{
+  font-family: "Bungee Shade", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.purpose2{
+  font-family: "Meddon", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: small;
+}
+
+.Sskills{
+  font-family: "Butcherman", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  font-style: italic;
+}
+
+.Tmanagement{
+  font-family: "Protest Revolution", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Psolving{
+  font-family: "Aladin", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Communication{
+  font-family: "Freckle Face", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Moffice{
+  font-family: "Condiment", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
